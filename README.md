@@ -8,4 +8,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Nishikawa-coder/Nishikawa-coder/master/profile-summary-card-output/solarized/1-repos-per-language.svg"/>
 <img src="https://raw.githubusercontent.com/Nishikawa-coder/Nishikawa-coder/master/profile-summary-card-output/solarized/2-most-commit-language.svg" </p>
 <img src="https://raw.githubusercontent.com/Nishikawa-coder/Nishikawa-coder/master/profile-summary-card-output/solarized/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/Nishikawa-coder/Nishikawa-coder/master/profile-summary-card-output/solarized/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/Nishikawa-coder/Nishikawa-coder/master/profile-summary-card-output/solarized/4-productive-time.svg" />  
+  
+# <img src="https://user-images.githubusercontent.com/77057905/177066291-bbbc13f2-0731-485c-bc4b-6dcf2d7a8c48.PNG" height="40" /> Atcoder Status:
+[![Rating](https://badgen.org/img/atcoder/atcoderin/rating/algorithm?style=plastic)](https://atcoder.jp/users/atcoderin?contestType=algo)
